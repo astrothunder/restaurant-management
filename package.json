@@ -1,4 +1,13 @@
 {
+  "name": "restaurant-management",
+  "version": "0.1.0",
+  "files": [
+    "dist"
+  ],
+  "engines": {
+    "node": "~16",
+    "npm": "~8"
+  },
   "private": true,
   "scripts": {
     "dev": "next",
